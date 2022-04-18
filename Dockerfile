@@ -1,4 +1,4 @@
-FROM php:7-apache
+FROM php:8.1.3-apache
 
 # Install dependencies
 RUN apt-get update && \

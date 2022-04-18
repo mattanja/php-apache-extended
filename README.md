@@ -2,7 +2,10 @@
 
 Docker image extending the official PHP apache image with typical extensions that are required by TYPO3 and similar projects.
 
-The master branch extends the latest stable php7 image, the php5 branch does the same for the latest stable php5 image.
+Branches and builds:
+* php5
+* php7
+* php8.1
 
 Base images can be found under https://hub.docker.com/_/php
 More information about the images is documented under https://docs.docker.com/samples/library/php/
