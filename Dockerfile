@@ -1,4 +1,5 @@
-FROM php:8.1.3-apache
+FROM php:8.1.3-apache-buster
+LABEL maintainer="Mattanja Kern <docker@kern.services>"
 
 # Install dependencies
 RUN apt-get update && \

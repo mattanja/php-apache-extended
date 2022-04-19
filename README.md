@@ -9,3 +9,7 @@ Branches and builds:
 
 Base images can be found under https://hub.docker.com/_/php
 More information about the images is documented under https://docs.docker.com/samples/library/php/
+
+## Credits
+
+Inspired by https://github.com/martin-helmich/docker-typo3
