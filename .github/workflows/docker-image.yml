@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: mattanja/php-apache-extended:8.2.10
+          tags: mattanja/php-apache-extended:8.3

@@ -6,6 +6,8 @@ Branches and builds:
 * php5
 * php7
 * php8.1
+* php8.2
+* php8.3
 
 Base images can be found under https://hub.docker.com/_/php
 More information about the images is documented under https://docs.docker.com/samples/library/php/
