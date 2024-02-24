@@ -1,4 +1,4 @@
-FROM php:8.2.10-apache
+FROM php:8.2.16-apache-bookworm
 LABEL maintainer="Mattanja Kern <docker@kern.services>"
 
 # Install dependencies
